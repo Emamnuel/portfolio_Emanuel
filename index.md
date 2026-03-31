@@ -1,67 +1,112 @@
 # Emanuel Mota  
 
-Electrical Engineering student focused on **Power Electronics** and **Embedded Systems**.  
+<p align="center">
+  <b>Electrical Engineering Student</b><br>
+  Focused on <b>Power Electronics</b> ⚡ and <b>Embedded Systems</b> 🔧  
+</p>
 
-I work with:  
-- STM32 firmware development  
-- Power electronics converters  
-- PCB design  
-- Hardware validation and testing  
+<p align="center">
+  <a href="https://github.com/Emamnuel">
+    <img src="https://img.shields.io/badge/GitHub-Emamnuel-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Emamnuel/portfolio_Emanuel">
+    <img src="https://img.shields.io/badge/Portfolio-Repository-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## Projects  
+## 👨‍💻 About Me  
 
-### Hardware Projects  
+Electrical Engineering student with hands-on experience in:  
+
+- ⚡ Power Electronics Converters  
+- 🔧 Embedded Systems (STM32)  
+- 🧠 Firmware Development (Embedded C)  
+- 🪛 Hardware Prototyping & PCB Design  
+- 📊 Hardware Validation & Testing  
+
+---
+
+## 🚀 Projects  
+
+### 🔌 Hardware Projects  
 
 #### Full Bridge Inverter  
-![inverter](_images/Placa_Acido_DSP.jpeg)  
-![inverter](_images/Placa_Analógico_Buck.jpeg)
-![inverter](_images/Placa_China_DSP.jpeg)
-![inverter](_images/Placa_FPGA.jpeg)
-![inverter](_images/Placa_Flyback.jpeg)
-![inverter](_images/Placa_IPM.jpeg)
-![inverter](_images/Placa_Inversor.jpeg)
-![inverter](_images/Placa_Mexedor.jpeg)
-![inverter](_images/Placa_PFC_PTH.jpeg)
-![inverter](_images/Placa_TCC.jpeg)
-- [Project Details](projects/inverter.md)  
+
+<p align="center">
+  <img src="_images/Placa_Acido_DSP.jpeg" width="300"/>
+  <img src="_images/Placa_Analógico_Buck.jpeg" width="300"/>
+  <img src="_images/Placa_China_DSP.jpeg" width="300"/>
+  <img src="_images/Placa_FPGA.jpeg" width="300"/>
+  <img src="_images/Placa_Flyback.jpeg" width="300"/>
+  <img src="_images/Placa_IPM.jpeg" width="300"/>
+  <img src="_images/Placa_Inversor.jpeg" width="300"/>
+  <img src="_images/Placa_Mexedor.jpeg" width="300"/>
+  <img src="_images/Placa_PFC_PTH.jpeg" width="300"/>
+  <img src="_images/Placa_TCC.jpeg" width="300"/>
+</p>
+
+🔎 Design and development of multiple power electronics boards, including inverter stages, PFC, flyback converters, and DSP-based control boards.  
+
+➡️ [Project Details](projects/inverter.md)  
+
+---
 
 #### UPS Startup System  
-![ups](_images/<nome_da_imagem>)  
-- [Project Details](projects/ups.md)  
+
+<p align="center">
+  <img src="_images/<nome_da_imagem>" width="350"/>
+</p>
+
+🔎 Development of a startup and protection system for UPS applications, focusing on safe grid interaction and control reliability.  
+
+➡️ [Project Details](projects/ups.md)  
 
 ---
 
-### Firmware Projects  
+### 💻 Firmware Projects  
 
 #### Energy Measurement System  
-- [Project Details](projects/energy_meter.md)  
+
+🔎 Embedded system for electrical parameter measurement using STM32, featuring:  
+- UART DMA communication  
+- Custom protocol with checksum  
+- Energy and RMS calculation  
+
+➡️ [Project Details](projects/energy_meter.md)  
 
 ---
 
-## Technical Skills  
+## 🛠️ Technical Skills  
 
-**Hardware**  
-- PCB Design  
+### ⚡ Hardware  
 - Power Electronics  
+- PCB Design (KiCad / Altium)  
 - Analog Circuits  
 
-**Firmware**  
+### 💻 Firmware  
 - STM32  
 - Embedded C  
 - UART DMA  
 - Communication Protocols  
 
-**Tools**  
-- KiCad / Altium  
-- STM32CubeIDE  
+### 🔬 Tools  
 - Oscilloscope  
 - Logic Analyzer  
+- STM32CubeIDE  
 
 ---
 
-## Links  
+## 📎 Links  
 
-- GitHub: https://github.com/Emamnuel  
-- Portfolio repository: https://github.com/Emamnuel/portfolio_Emanuel  
+- 🔗 GitHub: https://github.com/Emamnuel  
+- 📁 Portfolio: https://github.com/Emamnuel/portfolio_Emanuel  
+
+---
+
+## 📌 Highlights  
+
+- Strong focus on **real hardware implementation**  
+- Experience with **power converters and grid interaction**  
+- Development of **robust embedded communication systems**  
