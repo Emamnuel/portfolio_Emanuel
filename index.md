@@ -1,52 +1,58 @@
-# Emanuel Mota
+# Emanuel Mota  
 
-Electrical Engineering student focused on **Power Electronics** and **Embedded Systems**.
+Electrical Engineering student focused on **Power Electronics** and **Embedded Systems**.  
 
-I work with:
-
-- STM32 firmware development
-- Power electronics converters
-- PCB design
-- Hardware validation and testing
-
----
-
-## Projects
-
-### Power Electronics
-
-- [Full Bridge Inverter](projects/inverter.md)
-- [UPS Startup System](projects/ups.md)
-
-### Embedded Systems
-
-- [Energy Measurement System](projects/energy_meter.md)
+I work with:  
+- STM32 firmware development  
+- Power electronics converters  
+- PCB design  
+- Hardware validation and testing  
 
 ---
 
-## Technical Skills
+## Projects  
 
-**Hardware**
-- PCB Design
-- Power Electronics
-- Analog Circuits
+### Hardware Projects  
 
-**Firmware**
-- STM32
-- Embedded C
-- UART DMA
-- Communication Protocols
+#### Full Bridge Inverter  
+![inverter](_images/Placa_Acido_DSP.jpeg)  
+- [Project Details](projects/inverter.md)  
 
-**Tools**
-
-- KiCad / Altium
-- STM32CubeIDE
-- Oscilloscope
-- Logic Analyzer
+#### UPS Startup System  
+![ups](_images/<nome_da_imagem>)  
+- [Project Details](projects/ups.md)  
 
 ---
 
-## Links
+### Firmware Projects  
 
-- GitHub: https://github.com/Emamnuel
-- Portfolio repository: https://github.com/Emamnuel/portfolio_Emanuel
+#### Energy Measurement System  
+- [Project Details](projects/energy_meter.md)  
+
+---
+
+## Technical Skills  
+
+**Hardware**  
+- PCB Design  
+- Power Electronics  
+- Analog Circuits  
+
+**Firmware**  
+- STM32  
+- Embedded C  
+- UART DMA  
+- Communication Protocols  
+
+**Tools**  
+- KiCad / Altium  
+- STM32CubeIDE  
+- Oscilloscope  
+- Logic Analyzer  
+
+---
+
+## Links  
+
+- GitHub: https://github.com/Emamnuel  
+- Portfolio repository: https://github.com/Emamnuel/portfolio_Emanuel  
