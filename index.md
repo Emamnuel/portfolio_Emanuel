@@ -16,6 +16,15 @@ I work with:
 
 #### Full Bridge Inverter  
 ![inverter](_images/Placa_Acido_DSP.jpeg)  
+![inverter](_images/Placa_Analógico_Buck.jpeg)
+![inverter](_images/Placa_China_DSP.jpeg)
+![inverter](_images/Placa_FPGA.jpeg)
+![inverter](_images/Placa_Flyback.jpeg)
+![inverter](_images/Placa_IPM.jpeg)
+![inverter](_images/Placa_Inversor.jpeg)
+![inverter](_images/Placa_Mexedor.jpeg)
+![inverter](_images/Placa_PFC_PTH.jpeg)
+![inverter](_images/Placa_TCC.jpeg)
 - [Project Details](projects/inverter.md)  
 
 #### UPS Startup System  
