@@ -62,7 +62,7 @@ I enjoy taking projects from the initial concept to the final hardware validatio
 ## 🔋 Battery Energy Storage System (BESS) Inverter
 
 <p align="center">
-<img src="_images/Placa_Inversor.jpeg" width="650">
+<img src="images/Placa_Inversor.jpeg" width="650">
 </p>
 
 Development of a complete inverter platform for Battery Energy Storage Systems, including:
@@ -89,7 +89,7 @@ Development of a complete inverter platform for Battery Energy Storage Systems, 
 ## ⚡ Multilevel NPC Inverter
 
 <p align="center">
-<img src="_images/Placa_FPGA.jpeg" width="500">
+<img src="images/Placa_FPGA.jpeg" width="500">
 </p>
 
 FPGA implementation of a Neutral Point Clamped inverter featuring:
@@ -135,19 +135,19 @@ Embedded measurement platform developed using STM32 featuring:
 
 <p align="center">
 
-<img src="_images/Placa_Acido_DSP.jpeg" width="250"/>
-<img src="_images/Placa_Analógico_Buck.jpeg" width="250"/>
-<img src="_images/Placa_China_DSP.jpeg" width="250"/>
+<img src="images/Placa_Acido_DSP.jpeg" width="250"/>
+<img src="images/Placa_Analógico_Buck.jpeg" width="250"/>
+<img src="images/Placa_China_DSP.jpeg" width="250"/>
 
-<img src="_images/Placa_FPGA.jpeg" width="250"/>
-<img src="_images/Placa_Flyback.jpeg" width="250"/>
-<img src="_images/Placa_IPM.jpeg" width="250"/>
+<img src="images/Placa_FPGA.jpeg" width="250"/>
+<img src="images/Placa_Flyback.jpeg" width="250"/>
+<img src="images/Placa_IPM.jpeg" width="250"/>
 
-<img src="_images/Placa_Inversor.jpeg" width="250"/>
-<img src="_images/Placa_Mexedor.jpeg" width="250"/>
-<img src="_images/Placa_PFC_PTH.jpeg" width="250"/>
+<img src="images/Placa_Inversor.jpeg" width="250"/>
+<img src="images/Placa_Mexedor.jpeg" width="250"/>
+<img src="images/Placa_PFC_PTH.jpeg" width="250"/>
 
-<img src="_images/Placa_TCC.jpeg" width="250"/>
+<img src="images/Placa_TCC.jpeg" width="250"/>
 
 </p>
 
