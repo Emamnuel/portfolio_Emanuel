@@ -65,6 +65,10 @@ I enjoy taking projects from the initial concept to the final hardware validatio
 <img src="images/Placa_Inversor.jpeg" width="650">
 </p>
 
+<p align="center">
+<b>Figure 1.</b> Experimental prototype of the Battery Energy Storage System inverter.
+</p>
+
 Development of a complete inverter platform for Battery Energy Storage Systems, including:
 
 - Full-Bridge Power Stage
