@@ -1,29 +1,6 @@
 # Hi there! I'm Emanuel Mota 👋
 
-<p align="center">
-  <h3 align="center">M.Sc. Candidate in Electrical Engineering | Power Electronics | Embedded Systems</h3>
-</p>
-
-<p align="center">
-
-Researcher in <b>Power Electronics</b> at the <b>Federal University of Ceará (UFC)</b>, developing hardware and firmware for <b>Battery Energy Storage Systems (BESS)</b>, power converters and embedded applications.
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Emamnuel">
-    <img src="https://img.shields.io/badge/GitHub-Emamnuel-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-</p>
+Researcher in Power Electronics at the Federal University of Ceará (UFC), developing hardware and firmware for Battery Energy Storage Systems (BESS), power converters, and embedded applications.
 
 ---
 
@@ -31,9 +8,9 @@ Researcher in <b>Power Electronics</b> at the <b>Federal University of Ceará (U
 
 I'm currently pursuing my **Master's degree in Electrical Engineering** at the **Federal University of Ceará (UFC), Brazil**.
 
-My research focuses on **Battery Energy Storage Systems (BESS)**, **Power Electronics**, **Multilevel Inverters**, **Digital Control**, and **Embedded Systems**.
+My research focuses on **Battery Energy Storage Systems (BESS)**, **Power Electronics**, **Grid-Connected Converters**, **Multilevel Inverters**, **Digital Control**, and **Embedded Systems**.
 
-I enjoy taking projects from the initial concept to the final hardware validation, including:
+I enjoy taking projects from the initial concept to hardware implementation and experimental validation, including:
 
 - PCB Design
 - Embedded Firmware
@@ -41,6 +18,7 @@ I enjoy taking projects from the initial concept to the final hardware validatio
 - FPGA Development
 - Laboratory Testing
 - Hardware Debugging
+- Power Converter Development
 
 ---
 
@@ -54,6 +32,7 @@ I enjoy taking projects from the initial concept to the final hardware validatio
 - FPGA Applications
 - Digital Control
 - Renewable Energy
+- Energy Storage Systems
 
 ---
 
@@ -61,30 +40,21 @@ I enjoy taking projects from the initial concept to the final hardware validatio
 
 ## 🔋 Battery Energy Storage System (BESS) Inverter
 
-<p align="center">
-<img src="images/Placa_Inversor.jpeg" width="650">
-</p>
+**Ongoing research and development project** focused on the development of a complete power conversion platform for Battery Energy Storage Systems.
 
-<p align="center">
-<b>Figure 1.</b> Experimental prototype of the Battery Energy Storage System inverter.
-</p>
+The prototype is currently under development as part of my Master's research, including:
 
-Development of a complete inverter platform for Battery Energy Storage Systems, including:
-
-- Full-Bridge Power Stage
+- Power Converter
 - Gate Driver Boards
 - Analog Signal Conditioning
-- DSP Control
-- FPGA PWM Generation
+- Digital Control
+- FPGA-Based PWM Generation
+- Embedded Firmware
 - Experimental Validation
 
 **Technologies**
 
-`STM32`
-`DSP`
-`FPGA`
-`Power Electronics`
-`PCB Design`
+`STM32` `DSP` `FPGA` `Power Electronics` `PCB Design`
 
 ➡️ [Project Details](projects/inverter.md)
 
@@ -92,16 +62,16 @@ Development of a complete inverter platform for Battery Energy Storage Systems, 
 
 ## ⚡ Multilevel NPC Inverter
 
-<p align="center">
-<img src="images/Placa_FPGA.jpeg" width="500">
-</p>
-
-FPGA implementation of a Neutral Point Clamped inverter featuring:
+FPGA implementation and experimental development of a Neutral Point Clamped (NPC) inverter featuring:
 
 - VHDL
 - POD PWM
 - Dead-Time Generation
-- FPGA Hardware Validation
+- FPGA Hardware Implementation
+- Gate Driver Interface
+- Hardware Validation
+
+![NPC Inverter](images/npc_inverter.jpg)
 
 ➡️ [Project Details](projects/npc.md)
 
@@ -109,13 +79,18 @@ FPGA implementation of a Neutral Point Clamped inverter featuring:
 
 ## 🔌 UPS Development
 
-Development of an embedded UPS platform including:
+Development of an embedded UPS platform involving power electronics, control, and embedded systems.
+
+The project included:
 
 - Startup System
 - Protection Circuits
 - STM32 Hardware
 - Embedded Firmware
 - Grid Detection
+- Power Converter Development
+
+![UPS Development](images/ups.jpg)
 
 ➡️ [Project Details](projects/ups.md)
 
@@ -123,13 +98,16 @@ Development of an embedded UPS platform including:
 
 ## 📈 Energy Measurement System
 
-Embedded measurement platform developed using STM32 featuring:
+Embedded measurement platform developed using STM32, featuring:
 
 - UART DMA
 - ADC
 - RMS Calculation
 - Energy Measurement
 - Communication Protocol
+- Embedded Firmware
+
+![Energy Measurement System](images/energy_meter.jpg)
 
 ➡️ [Project Details](projects/energy_meter.md)
 
@@ -137,23 +115,19 @@ Embedded measurement platform developed using STM32 featuring:
 
 # 📷 Hardware Gallery
 
-<p align="center">
+### Multilevel NPC Inverter
 
-<img src="images/Placa_Acido_DSP.jpeg" width="250"/>
-<img src="images/Placa_Analógico_Buck.jpeg" width="250"/>
-<img src="images/Placa_China_DSP.jpeg" width="250"/>
+![NPC Inverter Hardware](images/npc_inverter.jpg)
 
-<img src="images/Placa_FPGA.jpeg" width="250"/>
-<img src="images/Placa_Flyback.jpeg" width="250"/>
-<img src="images/Placa_IPM.jpeg" width="250"/>
+### UPS Hardware
 
-<img src="images/Placa_Inversor.jpeg" width="250"/>
-<img src="images/Placa_Mexedor.jpeg" width="250"/>
-<img src="images/Placa_PFC_PTH.jpeg" width="250"/>
+![UPS Hardware](images/ups.jpg)
 
-<img src="images/Placa_TCC.jpeg" width="250"/>
+### Energy Measurement System
 
-</p>
+![Energy Measurement System](images/energy_meter.jpg)
+
+> **Note:** The BESS prototype is currently under development and will be added to the hardware gallery after the corresponding hardware becomes available for publication.
 
 ---
 
@@ -163,13 +137,14 @@ Embedded measurement platform developed using STM32 featuring:
 
 - DC-DC Converters
 - AC-DC Converters
-- Full Bridge
-- Half Bridge
+- Full-Bridge Converters
+- Half-Bridge Converters
 - Flyback
 - Push-Pull
 - Boost
 - PFC
 - Multilevel Inverters
+- Grid-Connected Converters
 
 ---
 
@@ -194,8 +169,6 @@ Embedded measurement platform developed using STM32 featuring:
 ## 📐 PCB Design
 
 - EasyEDA
-- KiCad
-- Altium Designer
 
 ---
 
@@ -229,52 +202,49 @@ Embedded measurement platform developed using STM32 featuring:
 
 ### ⚡ Power Electronics Laboratory (LCE)
 
-Research in:
+Research and development in:
 
 - Battery Energy Storage Systems
 - Multilevel Inverters
 - DC-DC Converters
+- Digital Control
+- Embedded Systems
 - Hardware Validation
 
 ---
 
 ### 🏭 EMBRAPII
 
-PCB Designer & Test Engineer
+**PCB Designer & Test Engineer**
 
-Projects involving:
+Professional activities involving:
 
 - UPS Development
 - STM32 Hardware
 - ESP32 Hardware
 - PCB Design
-- Converter Validation
+- Power Converter Development
+- Experimental Validation
+
+> **Confidentiality Notice:** Due to confidentiality agreements and contractual obligations with the companies involved, technical details, schematics, source code, specifications, and other proprietary information related to my professional projects cannot be publicly disclosed.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Emamnuel&show_icons=true&theme=github_dark"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emamnuel&layout=compact&theme=github_dark"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Emamnuel&show_icons=true&theme=default" alt="GitHub Statistics">
 </p>
 
 ---
 
 # 📫 Contact
 
-- 📧 Email: YOUR_EMAIL
-- 💼 LinkedIn: YOUR_PROFILE
-- 🎓 Google Scholar
-- 🆔 ORCID
+- 📧 Email: [edamota@alu.ufc.br](mailto:edamota@alu.ufc.br)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emanuel-mota-66838719b/)
+- 🎓 [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=IJ8S7VEAAAAJ&view_op=list_works&gmla=AO4B3jvoOYitRRdBEGG5XGVxRxmEBjjJTvJ_FJxT3LRMOufYOn_-xYpuJA4cRLmL-zsbskw86hH0Ft61OveemrAdCog)
+- 🆔 [ORCID](https://orcid.org/0000-0002-2761-7049)
 
 ---
 
-<p align="center">
-<b>Power Electronics • Embedded Systems • Research • Hardware Development</b>
-
 ⭐ Feel free to explore my repositories!
-</p>
