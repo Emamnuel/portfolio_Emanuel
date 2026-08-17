@@ -1,5 +1,3 @@
-# Hi there! I'm Emanuel Mota 👋
-
 **Power Electronics Researcher | M.Sc. Candidate in Electrical Engineering | BESS | Power Converters | Embedded Systems**
 
 I am a Master's candidate in Electrical Engineering at the **Federal University of Ceará (UFC), Brazil**, working with power electronics, energy storage systems, digital control, and embedded systems.
