@@ -143,11 +143,6 @@ The system includes:
   <img src="images/Placa_TCC.jpeg" width="45%">
 </p>
 
-<p align="center">
-  <img src="images/Placa_China_DSP.jpeg" width="45%">
-  <img src="images/Placa_PFC_PTH.jpeg" width="45%">
-</p>
-
 > The BESS prototype is currently under development. Additional hardware photographs will be added as the project progresses and the corresponding material becomes available for public disclosure.
 
 ---
@@ -233,16 +228,6 @@ Experience with:
 
 ---
 
-# 📚 Publications
-
-### Modeling of a Single-Phase NPC Inverter with Nonlinear Load according to NBR 15204
-
-**Accepted at the XXVI Brazilian Congress of Automation (CBA 2026).**
-
-The work presents the modeling and analysis of a single-phase NPC inverter operating with a nonlinear load according to the requirements of **NBR 15204**.
-
----
-
 # 💼 Professional Experience
 
 ## ⚡ Power Electronics Laboratory (LCE)
@@ -291,14 +276,6 @@ This includes, when applicable:
 - Test results
 - Proprietary architectures
 - Other confidential technical information
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emamnuel&show_icons=true&theme=default" alt="GitHub Statistics">
-</p>
 
 ---
 
