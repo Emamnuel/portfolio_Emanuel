@@ -33,7 +33,6 @@ I particularly enjoy working across the complete development process, from simul
 - FPGA-Based Control
 - Renewable Energy Integration
 - Energy Storage Systems
-- Power Quality
 
 ---
 
@@ -60,8 +59,6 @@ The prototype is currently under development and involves the integration of:
 
 `STM32` `DSP` `FPGA` `VHDL` `Embedded C` `Power Electronics` `PCB Design`
 
-➡️ [Project Details](projects/inverter.md)
-
 > **Project status:** Hardware prototype currently under development.
 
 ---
@@ -83,8 +80,6 @@ The project includes:
 
 ![Multilevel NPC Inverter](images/Placa_Inversor.jpeg)
 
-➡️ [Project Details](projects/npc.md)
-
 ---
 
 ## 🔌 UPS Development
@@ -101,10 +96,6 @@ The project involved:
 - Power Converter Development
 - Hardware Testing
 
-![UPS Development](images/Placa_PFC_PTH.jpeg)
-
-➡️ [Project Details](projects/ups.md)
-
 ---
 
 ## 📈 Energy Measurement System
@@ -120,10 +111,6 @@ The system includes:
 - Digital Processing
 - Communication Protocol
 - Embedded Firmware
-
-![Energy Measurement System](images/Placa_China_DSP.jpeg)
-
-➡️ [Project Details](projects/energy_meter.md)
 
 ---
 
@@ -154,6 +141,11 @@ The system includes:
 <p align="center">
   <img src="images/Placa_Mexedor.jpeg" width="45%">
   <img src="images/Placa_TCC.jpeg" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/Placa_China_DSP.jpeg" width="45%">
+  <img src="images/Placa_PFC_PTH.jpeg" width="45%">
 </p>
 
 > The BESS prototype is currently under development. Additional hardware photographs will be added as the project progresses and the corresponding material becomes available for public disclosure.
