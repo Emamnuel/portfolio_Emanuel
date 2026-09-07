@@ -1,4 +1,4 @@
-# Hi there! I'm Emanuel Mota 👋
+# Emanuel Mota
 
 <p align="center">
   <h3 align="center">Power Electronics Researcher | M.Sc. Candidate in Electrical Engineering | BESS | Power Converters | Embedded Systems</h3>
@@ -10,7 +10,7 @@ My current research focuses on the development of **Battery Energy Storage Syste
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I am currently pursuing my **Master's degree in Electrical Engineering** at the **Federal University of Ceará (UFC)**.
 
@@ -24,7 +24,7 @@ I particularly enjoy working across the complete development process, from simul
 
 ---
 
-# 🔬 Research Interests
+# Research Interests
 
 - Battery Energy Storage Systems (BESS)
 - Grid-Connected Power Converters
@@ -38,9 +38,9 @@ I particularly enjoy working across the complete development process, from simul
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🔋 Battery Energy Storage System (BESS) Inverter
+## Battery Energy Storage System (BESS) Inverter
 
 **Ongoing Master's research project**
 
@@ -51,7 +51,7 @@ Development of a power conversion platform for **Battery Energy Storage Systems 
 
 ---
 
-## ⚡ Multilevel NPC Inverter
+## Multilevel NPC Inverter
 
 Development and experimental validation of a **Neutral Point Clamped (NPC) multilevel inverter** using FPGA-based PWM generation. The project involves VHDL development, POD PWM modulation, digital PWM generation, dead-time implementation, FPGA programming, gate driver interfacing, and hardware debugging. The work also includes practical testing and validation of the complete power converter hardware.
 
@@ -60,7 +60,7 @@ Development and experimental validation of a **Neutral Point Clamped (NPC) multi
 
 ---
 
-## 🔌 UPS Development
+## UPS Development
 
 Development of an embedded **Uninterruptible Power Supply (UPS)** platform involving power electronics, embedded systems, and protection circuits. The project includes the development of the startup system, protection circuits, STM32-based hardware and firmware, grid detection, power converter development, and hardware testing. The work combines circuit development, embedded programming, and practical testing of the system.
 
@@ -69,7 +69,7 @@ Development of an embedded **Uninterruptible Power Supply (UPS)** platform invol
 
 ---
 
-## 📈 Energy Measurement System
+## Energy Measurement System
 
 Development of an embedded energy measurement platform based on **STM32**. The system includes ADC acquisition, RMS calculation, energy measurement, digital signal processing, UART communication, DMA-based data acquisition, and embedded firmware development. The project focuses on the acquisition and processing of electrical measurements using a microcontroller-based system.
 
@@ -78,7 +78,7 @@ Development of an embedded energy measurement platform based on **STM32**. The s
 
 ---
 
-# 🔬 Laboratory & Experimental Experience
+# Laboratory & Experimental Experience
 
 I have hands-on experience with laboratory instrumentation, embedded systems, experimental setups, and hardware development for power electronics.
 
@@ -108,9 +108,9 @@ I also have practical experience in the development and construction of laborato
 
 ---
 
-# 🛠 Technical Skills
+# Technical Skills
 
-## ⚡ Power Electronics
+## Power Electronics
 
 - DC-DC Converters
 - AC-DC Converters
@@ -127,7 +127,7 @@ I also have practical experience in the development and construction of laborato
 - Power Stage Development
 - Power Converter Testing
 
-## 🎛 Control and Digital Systems
+## Control and Digital Systems
 
 - Digital Control
 - Real-Time Control
@@ -138,7 +138,7 @@ I also have practical experience in the development and construction of laborato
 - Grid Detection
 - Control Implementation on Microcontrollers, DSPs and FPGAs
 
-## 💻 Embedded Systems
+## Embedded Systems
 
 - STM32
 - ESP32
@@ -150,14 +150,14 @@ I also have practical experience in the development and construction of laborato
 - DMA
 - Hardware Debugging
 
-## 👨‍💻 Programming & HDL
+## Programming & HDL
 
 - Embedded C
 - VHDL
 - MATLAB
 - Python
 
-## 📐 PCB Design
+## PCB Design
 
 - EasyEDA
 - PCB Layout
@@ -166,7 +166,7 @@ I also have practical experience in the development and construction of laborato
 - Mixed-Signal PCB Design
 - Hardware Prototyping
 
-## 🧪 Simulation & Engineering Tools
+## Simulation & Engineering Tools
 
 - PLECS
 - PSIM
@@ -179,9 +179,9 @@ I also have practical experience in the development and construction of laborato
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
-## ⚡ Power Electronics Laboratory (LCE)
+## Power Electronics Laboratory (LCE)
 
 **Researcher**
 
@@ -191,7 +191,7 @@ The work involves both simulation and practical development, including converter
 
 ---
 
-## 🏭 EMBRAPII
+## EMBRAPII
 
 **PCB Designer & Test Engineer**
 
@@ -216,7 +216,7 @@ This includes, when applicable:
 
 ---
 
-# 📚 Publications & Research Outputs
+# Publications & Research Outputs
 
 - **Modelagem de Inversor Monofásico NPC com Carga Não-Linear pela NBR 15204** — Accepted for the *XXVI Congresso Brasileiro de Automática (CBA 2026)*.
 
@@ -225,7 +225,7 @@ This includes, when applicable:
 
 ---
 
-# 📷 Hardware Gallery
+# Hardware Gallery
 
 ## Power Electronics Hardware
 
@@ -235,9 +235,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>NPC T Type Inverter Board.</b>
+  <b>LEGENDA AQUI</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Development Kit with Deo Nano.</b>
+  <b>LEGENDA AQUI</b>
 </p>
 
 ---
@@ -248,9 +248,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>Analog Control Board for PFC Converters.</b>
+  <b>LEGENDA AQUI</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Development Board for DSP TMS320F28379D.</b>
+  <b>LEGENDA AQUI</b>
 </p>
 
 ---
@@ -261,9 +261,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>Pre Development Board for DSP TMS320F28379D</b>
+  <b>LEGENDA AQUI</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Development Board for DC-DC Buck Converters Family.</b>
+  <b>LEGENDA AQUI</b>
 </p>
 
 ---
@@ -274,9 +274,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>Auxiliar Power Board with Flyback Topology.</b>
+  <b>LEGENDA AQUI</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Gate Control Board for MIT Inverter.</b>
+  <b>LEGENDA AQUI</b>
 </p>
 
 ---
@@ -287,22 +287,22 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>Step Motor Control Board with ESP32.</b>
+  <b>LEGENDA AQUI</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Control Board with STM32 to PFC topologies.</b>
+  <b>LEGENDA AQUI</b>
 </p>
 
 > The BESS prototype is currently under development. Additional hardware photographs will be added as the project progresses and the corresponding material becomes available for public disclosure.
 
 ---
 
-# 📫 Contact
+# Contact
 
-- 📧 **Email:** [edamota@alu.ufc.br](mailto:edamota@alu.ufc.br)
-- 💼 **LinkedIn:** [Emanuel Mota](https://www.linkedin.com/in/emanuel-mota-66838719b/)
-- 🎓 **Google Scholar:** [Emanuel Mota](https://scholar.google.com.br/citations?hl=pt-BR&user=IJ8S7VEAAAAJ&view_op=list_works)
-- 🆔 **ORCID:** [0000-0002-2761-7049](https://orcid.org/0000-0002-2761-7049)
+- **Email:** [edamota@alu.ufc.br](mailto:edamota@alu.ufc.br)
+- **LinkedIn:** [Emanuel Mota](https://www.linkedin.com/in/emanuel-mota-66838719b/)
+- **Google Scholar:** [Emanuel Mota](https://scholar.google.com.br/citations?hl=pt-BR&user=IJ8S7VEAAAAJ&view_op=list_works)
+- **ORCID:** [0000-0002-2761-7049](https://orcid.org/0000-0002-2761-7049)
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+Feel free to explore my repositories and projects.
