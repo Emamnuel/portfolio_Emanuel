@@ -1,3 +1,4 @@
+```markdown
 # Emanuel Mota
 
 <p align="center">
@@ -96,11 +97,13 @@ I have practical experience with general electrical instrumentation, including a
 
 ## Embedded Systems and Interfaces
 
-I have hands-on experience with embedded-system instrumentation and interfaces, including **Kingst logic analyzers (LA3010 and LA1010)**, HC-05 Bluetooth modules, OLED displays, touch interfaces, and seven-segment displays. I have also worked with UART communication, DMA-based data acquisition, and embedded hardware debugging.
+I have hands-on experience with **Kingst logic analyzers (LA3010 and LA1010)**, HC-05 Bluetooth modules, OLED displays, touch interfaces, and seven-segment displays. I have also worked with UART communication, DMA-based data acquisition, and embedded hardware debugging.
 
 ## Microcontrollers, DSPs and FPGAs
 
-My experience includes **PIC16F microcontrollers, STM32 G and F families, TI TMS320F28379D DSPs, ESP32-WROOM modules, and Altera/Intel FPGA development and educational kits, including the DE0-Nano**. These platforms have been used for embedded firmware development, ADC acquisition, PWM generation, digital control, communication, and hardware debugging.
+My experience includes **PIC16F microcontrollers, STM32 G and F families, TI TMS320F28379D DSPs, ESP32-WROOM modules, and Altera/Intel FPGA development and educational kits, including the DE0-Nano**.
+
+These platforms have been used for embedded firmware development, ADC acquisition, PWM generation, digital control, communication, and hardware debugging.
 
 ## Laboratory Bench Development and Prototyping
 
@@ -185,7 +188,7 @@ I also have practical experience in the development and construction of laborato
 
 **Researcher**
 
-Research and development activities involving **Battery Energy Storage Systems, grid-connected converters, multilevel inverters, DC-DC converters, digital control, embedded systems, FPGA applications, hardware development, and experimental validation**.
+Research and development activities involving **Battery Energy Storage Systems, grid-connected converters, multilevel inverters, DC-DC converters, digital control, embedded systems, hardware development, and experimental validation**.
 
 The work involves both simulation and practical development, including converter design, digital control implementation, embedded systems, hardware testing, and laboratory experiments.
 
@@ -218,7 +221,7 @@ This includes, when applicable:
 
 # Publications & Research Outputs
 
-- **Modelagem de Inversor Monofásico NPC com Carga Não-Linear pela NBR 15204** — Accepted for the *XXVI Congresso Brasileiro de Automática (CBA 2026)*.
+- **Modelagem de Inversor Monofásico NPC com Carga Não-Linear pela NBR 15204** — Accepted for the *XXVI Congresso Brasileiro de Automação (CBA 2026)*.
 
 **Additional publications and research outputs:**  
 `ADD HERE`
@@ -287,22 +290,25 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>LEGENDA AQUI.</b>
+  <b>Step Motor Control Board with ESP32.</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LEGENDA AQUI.</b>
+  <b>Control Board with STM32 for PFC Topologies.</b>
 </p>
 
-> The BESS prototype is currently under development. Additional hardware photographs will be added as the project progresses and the corresponding material becomes available for public disclosure.
+---
+
+The BESS prototype is currently under development. Additional hardware photographs will be added as the project progresses and the corresponding material becomes available for public disclosure.
 
 ---
 
 # Contact
 
 - **Email:** [edamota@alu.ufc.br](mailto:edamota@alu.ufc.br)
-- **LinkedIn:** [Emanuel Mota](https://www.linkedin.com/in/emanuel-mota-66838719b/)
-- **Google Scholar:** [Emanuel Mota](https://scholar.google.com.br/citations?hl=pt-BR&user=IJ8S7VEAAAAJ&view_op=list_works)
-- **ORCID:** [0000-0002-2761-7049](https://orcid.org/0000-0002-2761-7049)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/emanuel-mota-66838719b/)
+- **Google Scholar:** [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=IJ8S7VEAAAAJ&view_op=list_works)
+- **ORCID:** [ORCID](https://orcid.org/0000-0002-2761-7049)
 
 ---
 
-Feel free to explore my repositories and projects.
+Feel free to explore the repositories and projects.
+```
