@@ -6,7 +6,7 @@
 
 I am a Master's candidate in Electrical Engineering at the **Federal University of Ceará (UFC), Brazil**, working with power electronics, energy storage systems, digital control, and embedded systems.
 
-My current research focuses on the development of **Battery Energy Storage Systems (BESS)** and grid-connected power converters, combining power-stage design, digital control, FPGA-based PWM generation, embedded firmware, and experimental validation.
+My current research focuses on the development of **Battery Energy Storage Systems (BESS)** and grid-connected power converters, combining power-stage design, digital control, embedded firmware, and experimental validation.
 
 ---
 
@@ -44,10 +44,10 @@ I particularly enjoy working across the complete development process, from simul
 
 **Ongoing Master's research project**
 
-Development of a power conversion platform for **Battery Energy Storage Systems (BESS)**, with emphasis on grid-connected operation and digital control. The project involves the development and integration of the power converter, gate driver boards, analog signal conditioning, digital control, FPGA-based PWM generation, embedded firmware, and protection systems. The work includes modeling and simulation, hardware development, PCB design, embedded programming, and experimental validation of the converter. The hardware prototype is currently under development.
+Development of a power conversion platform for **Battery Energy Storage Systems (BESS)**, with emphasis on grid-connected operation and digital control. The project involves the development and integration of the power converter, gate driver boards, analog signal conditioning, digital control, embedded firmware, and protection systems. The work includes modeling and simulation, hardware development, PCB design, embedded programming, and experimental validation of the converter. The hardware prototype is currently under development.
 
 **Technologies:**  
-`STM32` `DSP` `FPGA` `VHDL` `Embedded C` `PLECS` `Power Electronics` `PCB Design`
+`STM32` `DSP` `Embedded C` `PLECS` `Power Electronics` `PCB Design`
 
 ---
 
@@ -100,7 +100,7 @@ I have hands-on experience with embedded-system instrumentation and interfaces, 
 
 ## Microcontrollers, DSPs and FPGAs
 
-My experience includes **PIC16F microcontrollers, STM32 G and F families, TI TMS320F29x/F28379D DSPs, ESP32-WROOM modules, and Altera/Intel FPGA development and educational kits, including the DE0-Nano**. These platforms have been used for embedded firmware development, ADC acquisition, PWM generation, digital control, communication, and hardware debugging.
+My experience includes **PIC16F microcontrollers, STM32 G and F families, TI TMS320F28379D DSPs, ESP32-WROOM modules, and Altera/Intel FPGA development and educational kits, including the DE0-Nano**. These platforms have been used for embedded firmware development, ADC acquisition, PWM generation, digital control, communication, and hardware debugging.
 
 ## Laboratory Bench Development and Prototyping
 
@@ -235,9 +235,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>LEGENDA AQUI</b>
+  <b>NPC T Type Inverter Board.</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LEGENDA AQUI</b>
+  <b>Development Kit with DE0-Nano.</b>
 </p>
 
 ---
@@ -248,9 +248,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>LEGENDA AQUI</b>
+  <b>Analog Control Board for PFC Converters.</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LEGENDA AQUI</b>
+  <b>Development Board for DSP TMS320F28379D.</b>
 </p>
 
 ---
@@ -261,9 +261,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>LEGENDA AQUI</b>
+  <b>Pre-Development Board for DSP TMS320F28379D.</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LEGENDA AQUI</b>
+  <b>Development Board for DC-DC Buck Converter Family.</b>
 </p>
 
 ---
@@ -274,9 +274,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>LEGENDA AQUI</b>
+  <b>Auxiliary Power Board with Flyback Topology.</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LEGENDA AQUI</b>
+  <b>Gate Control Board for MIT Inverter.</b>
 </p>
 
 ---
@@ -287,9 +287,9 @@ This includes, when applicable:
 </p>
 
 <p align="center">
-  <b>LEGENDA AQUI</b>
+  <b>LEGENDA AQUI.</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LEGENDA AQUI</b>
+  <b>LEGENDA AQUI.</b>
 </p>
 
 > The BESS prototype is currently under development. Additional hardware photographs will be added as the project progresses and the corresponding material becomes available for public disclosure.
