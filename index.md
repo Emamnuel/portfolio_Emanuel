@@ -1,4 +1,3 @@
-```markdown
 # Emanuel Mota
 
 <p align="center">
@@ -311,4 +310,3 @@ The BESS prototype is currently under development. Additional hardware photograp
 ---
 
 Feel free to explore the repositories and projects.
-```
